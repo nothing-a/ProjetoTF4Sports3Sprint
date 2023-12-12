@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjetoTF4SportsFPOO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjetoTF4SportsFPOO_jar</output-path>
+    <root id="archive" name="ProjetoTF4SportsFPOO.jar">
+      <element id="module-output" name="ProjetoTF4SportsFPOO" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libs/mysql-connector-java-8.0.29.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
